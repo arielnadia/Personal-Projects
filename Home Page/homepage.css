@@ -1,0 +1,70 @@
+* { font-family: Calibri, Arial, sans-serif;
+    color: #FFFFFF;
+    margin: 0; }
+h1 { font-family: Harrington, serif;
+     padding: 10px;
+     font-size: 4em; }
+img { padding-left: 5px; }
+h2 { font-family: High Tower Text, serif;
+     font-size: 2em; }
+body, html { height: 100%;
+             margin: 0;
+             padding: 0; }
+#background { position: relative;
+              background-image: url("NieR.jpg");
+              background-color: #B3B3B3;
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: cover;
+              height: 100%;
+              margin: 0;
+              padding: 0; }
+#main { column-count: 4;
+        column-gap: 10px;
+        column-rule: none;
+        column-width: 100px;
+        padding-left: 15px; }
+#set1 { column-span: 1;
+        column-fill: auto;
+        height: 500px; }
+#set2 { column-span: 2;
+        column-fill: auto;
+        height: 500px; }
+#set3 { column-span: 3;
+        column-fill: auto;
+        height: 500px; }
+#set4 { column-span: 4;
+        column-fill: auto;
+        height: 500px; }
+ul { list-style: none; }
+a { text-decoration: none; }
+a:hover { color: #A6A6A6; }
+@media only screen and (max-width: 450px) {
+		* { font-family: Calibri, Arial, sans-serif;
+		    color: #FFFFFF;
+		    margin: 0; }
+		h1 { font-family: Harrington, serif;
+		     padding: 10px;
+		     font-size: 4em; }
+		img { padding-left: 5px; }
+		h2 { font-family: High Tower Text, serif;
+		     font-size: 2em; }
+		body, html { margin: 0;
+		             padding: 0;
+		             height: 100%; }
+		body { background-image: url("NieR-2.jpg");
+		              background-color: #B3B3B3;
+		              background-position: center;
+		              background-repeat: repeat-y;
+		              margin: 0;
+		              padding: 0;
+		              height: 100%; }
+		#main { padding: 15px;
+		        column-count: 1; }
+		#set1, #set2, #set3, #set4 { padding: 0;
+		                             column-span: 1;
+		                             column-fill: auto;
+		                             height: 100%; }
+		ul { list-style: none; }
+                a { text-decoration: none; }
+}

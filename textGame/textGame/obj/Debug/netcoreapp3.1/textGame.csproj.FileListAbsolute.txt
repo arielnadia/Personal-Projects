@@ -1,0 +1,13 @@
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\bin\Debug\netcoreapp3.1\textGame.exe
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\bin\Debug\netcoreapp3.1\textGame.deps.json
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\bin\Debug\netcoreapp3.1\textGame.runtimeconfig.json
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\bin\Debug\netcoreapp3.1\textGame.runtimeconfig.dev.json
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\bin\Debug\netcoreapp3.1\textGame.dll
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\bin\Debug\netcoreapp3.1\textGame.pdb
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\obj\Debug\netcoreapp3.1\textGame.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\obj\Debug\netcoreapp3.1\textGame.AssemblyInfoInputs.cache
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\obj\Debug\netcoreapp3.1\textGame.AssemblyInfo.cs
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\obj\Debug\netcoreapp3.1\textGame.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\obj\Debug\netcoreapp3.1\textGame.dll
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\obj\Debug\netcoreapp3.1\textGame.pdb
+C:\Users\Ariel\Documents\Development\Visual Studio\textGame\textGame\obj\Debug\netcoreapp3.1\textGame.genruntimeconfig.cache
